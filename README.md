@@ -19,6 +19,5 @@ A high school student trying to gradually learn to code ❤
 ![](https://github-contributor-stats.vercel.app/api?username=birruschavo&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=birruschavo&icon=2&color=1)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=birruschavo&label=Profile%20Views&color=0&icon=2&pretty=false)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
