@@ -1,3 +1,4 @@
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1168474436417106051?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/1168474436417106051)
 # 💫 About Me:
 A high school student trying to gradually learn to code ❤
 
